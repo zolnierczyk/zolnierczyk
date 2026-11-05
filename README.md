@@ -1,7 +1,7 @@
 # Hi there, I'm Piotr 👋
 
 ### 👨‍💻 About Me
-Senior Embedded Software Engineer and Technical Manager with over a decade of experience.
+Technical Manager & Hands-on Embedded Engineer working mostly with Linux, C++, Video Analytics at the Edge with over a decade of experience.
 
 ### 📫 Get in Touch
 
